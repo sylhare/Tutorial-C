@@ -17,6 +17,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#Other files that I don't want
+*.exe
+*.cpp
+
 # =========================
 # Operating System Files
 # =========================
